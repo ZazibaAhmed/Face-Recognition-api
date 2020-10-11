@@ -12,6 +12,9 @@
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
+  "engines": {
+    "node": "12.18.3"
+  },
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.19.0",
